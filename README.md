@@ -36,15 +36,15 @@
 
 ## 🏆 My GitHub Trophies & Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=soumyadeepdutta&theme=radical&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Soumyad3110&theme=radical&row=1&column=7)
 
 ---
 
 ## 📊 GitHub Stats & Daily Contribution Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumyadeepdutta&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyad3110&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepdutta&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soumyad3110&theme=radical)
 
 ---
 
@@ -52,8 +52,8 @@
 
 | Platform        | Link                                                                 |
 | --------------- | -------------------------------------------------------------------- |
-| 🐙 GitHub       | [@soumyadeepdutta](https://github.com/soumyadeepdutta)              |
-| 💼 LinkedIn     | [Soumyadeep Dutta](https://linkedin.com/in/soumyadeepdutta)          |
+| 🐙 GitHub       | [@soumyadeepdutta](https://github.com/Soumyad3110)              |
+| 💼 LinkedIn     | [Soumyadeep Dutta]([https://linkedin.com/in/soumyadeepdutta](https://www.linkedin.com/in/soumyadeep-dutta-609b66334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))          |
 | 🐦 Twitter      | [@soumyadeep](https://twitter.com/soumyadeep)                       |
 | 📸 Instagram    | [@soumyadeep](https://instagram.com/soumyadeep)                     |
 
