@@ -54,9 +54,8 @@
 | Platform        | Link                                                                 |
 | --------------- | -------------------------------------------------------------------- |
 | 🐙 GitHub       | [@soumyadeepdutta](https://github.com/Soumyad3110)              |
-| 💼 LinkedIn     | [Soumyadeep Dutta]([https://linkedin.com/in/soumyadeepdutta](https://www.linkedin.com/in/soumyadeep-dutta-609b66334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))          |
-| 🐦 Twitter      | [@soumyadeep](https://twitter.com/soumyadeep)                       |
-| 📸 Instagram    | [@soumyadeep](https://instagram.com/soumyadeep)                     |
+| 💼 LinkedIn     | [Soumyadeep Dutta](https://www.linkedin.com/in/soumyadeep-dutta-609b66334)          |
+| 📸 Instagram    | [@soumyadeep](https://www.instagram.com/_waltz_soumyad_001?igsh=MXA1eHd1bnh2Mm54Yg==)                     |
 
 ---
 
