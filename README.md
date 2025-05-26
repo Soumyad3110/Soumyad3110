@@ -36,8 +36,7 @@
 
 ## 🏆 My GitHub Trophies & Achievements
 
-![GitHub Trophies]
-(https://github-profile-trophy.vercel.app/?username=Soumyad3110&theme=radical&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Soumyad3110&theme=radical&row=1&column=7)
 
 ---
 
