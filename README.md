@@ -23,12 +23,8 @@
 
 | Feature                        | Description                                           |
 |-------------------------------|-----------------------------------------------------|
-| 🚀 Modern Animations           | Engaging CSS animations & interactive effects        |
-| 🌈 Vibrant Themes              | Gradient backgrounds, neon glows, and shadows       |
 | 📱 Fully Responsive            | Seamless experience across all devices               |
 | 🛠️ Clean, Organized Code       | Readable, maintainable, and well-documented          |
-| 🔥 Performance Optimized       | Fast loading & smooth user experience                 |
-| ♿ Accessibility Focused        | Semantic HTML & ARIA standards for all users          |
 | 🏆 GitHub Trophies Showcase    | Visual badges for achievements and milestones         |
 | 📈 GitHub Stats & Contribution | Track record of consistent contributions & growth    |
 
