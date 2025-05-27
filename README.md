@@ -1,4 +1,4 @@
-# 🎉 Welcome to My GitHub Portfolio! - #Coder_Soumyad 🚀
+# 🎉 Welcome to My GitHub Portfolio! - #Coder_Soumyad 
 ---
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
