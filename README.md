@@ -46,7 +46,9 @@
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24"/>](https://github.com/Soumyad3110) &nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"/>](https://www.linkedin.com/in/soumyadeep-dutta-609b66334) &nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="24"/>](https://www.instagram.com/_waltz_soumyad_001) &nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="24"/>](mailto:dutta.311006@gmail.com)
+<a href="mailto:dutta.311006@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="24" />
+</a>
 
 ---
 
