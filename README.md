@@ -1,6 +1,6 @@
 # 🎉 Welcome to My GitHub Portfolio! - #Coder_Soumyad 🚀
 
-![Header](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)
+![Header](https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/GitHub-512.png)
 
 ---
 
