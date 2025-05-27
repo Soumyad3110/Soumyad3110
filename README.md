@@ -28,17 +28,6 @@
 
 ---
 
-## ✨ What Makes This Repository Special?
-
-| Feature                        | Description                                           |
-|-------------------------------|-----------------------------------------------------|
-| 📱 Fully Responsive            | Seamless experience across all devices               |
-| 🛠️ Clean, Organized Code       | Readable, maintainable, and well-documented          |
-| 🏆 GitHub Trophies Showcase    | Visual badges for achievements and milestones         |
-| 📈 GitHub Stats & Contribution | Track record of consistent contributions & growth    |
-
----
-
 ## 🏆 My GitHub Trophies & Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Soumyad3110&theme=radical&row=1&column=7)
@@ -65,7 +54,6 @@
 ## 🚀 Quick Navigation
 
 - [Projects & Demos](#-discover-my-world-of-code-creativity--achievements)
-- [Features](#-what-makes-this-repository-special)
 - [Trophies & Stats](#-my-github-trophies--achievements)
 - [Connect](#-lets-connect)
 
