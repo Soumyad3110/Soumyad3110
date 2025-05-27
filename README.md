@@ -1,6 +1,7 @@
 # 🎉 Welcome to My GitHub Portfolio! - #Coder_Soumyad 🚀
+---
 
-![Header](https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/GitHub-512.png)
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
 
 ---
 
@@ -12,7 +13,18 @@
 
 - 💻 Innovative projects showcasing technology 
 - 🏆 Highlighting my GitHub trophies & accomplishments  
-- 🔥 Daily coding streak motivating consistency & growth  
+- 🔥 Daily coding streak motivating consistency & growth
+
+## Programming Languages & Tech 
+<p>
+  <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python Logo" width="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" alt="Linux Logo" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/120px-Tensorflow_logo.svg.png" alt="TensorFlow Logo" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch Logo" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter Logo" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/120px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn Logo" width="40"/>
+</p>
 
 ---
 
@@ -43,11 +55,10 @@
 
 ## 📬 Let’s Connect
 
-| Platform        | Link                                                                 |
-| --------------- | -------------------------------------------------------------------- |
-| 🐙 GitHub       | [@soumyadeepdutta](https://github.com/Soumyad3110)              |
-| 💼 LinkedIn     | [Soumyadeep Dutta](https://www.linkedin.com/in/soumyadeep-dutta-609b66334)          |
-| 📸 Instagram    | [@soumyadeep](https://www.instagram.com/_waltz_soumyad_001?igsh=MXA1eHd1bnh2Mm54Yg==)                     |
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24"/>](https://github.com/Soumyad3110) &nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"/>](https://www.linkedin.com/in/soumyadeep-dutta-609b66334) &nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="24"/>](https://www.instagram.com/_waltz_soumyad_001) &nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="24"/>](mailto:dutta.311006@gmail.com)
 
 ---
 
