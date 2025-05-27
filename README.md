@@ -34,7 +34,7 @@
 - [![☕ Java](https://img.shields.io/badge/GitHub-Java-181717?style=flat&logo=github)](https://github.com/Soumyad3110/Java)
 
 
-## Programming Languages & Tech 
+## 🤖 Programming Languages & Tech 
 <p>
   <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python Logo" width="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="40"/> 
