@@ -10,10 +10,7 @@
 
 ## 🌟 Discover my world of code, creativity & achievements
 
-- 💻 Innovative projects showcasing technology  
-- 🎨 Eye-catching UI with smooth animations & vibrant designs  
-- ⚙️ Cutting-edge web & software experiments  
-- 📚 Valuable learning resources and tutorials  
+- 💻 Innovative projects showcasing technology 
 - 🏆 Highlighting my GitHub trophies & accomplishments  
 - 🔥 Daily coding streak motivating consistency & growth  
 
