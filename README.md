@@ -24,9 +24,16 @@
 [![Top Language](https://img.shields.io/github/languages/top/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project)
 [![License](https://img.shields.io/github/license/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project/blob/main/LICENSE)
 
-
-
 > 🎥 A responsive netflix recommendation system using NLP
+
+## 🚀 Other Featured Repositories
+
+- [![🧠 AI_ML](https://img.shields.io/badge/GitHub-AI__ML-181717?style=flat&logo=github)](https://github.com/Soumyad3110/AI_ML)
+
+- [![🔣 C Programming](https://img.shields.io/badge/GitHub-C-181717?style=flat&logo=github)](https://github.com/Soumyad3110/C)
+
+- [![☕ Java](https://img.shields.io/badge/GitHub-Java-181717?style=flat&logo=github)](https://github.com/Soumyad3110/Java)
+
 
 ## Programming Languages & Tech 
 <p>
