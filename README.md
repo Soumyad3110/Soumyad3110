@@ -10,9 +10,23 @@
 
 ## 🌟 Discover my world of code, creativity & achievements
 
-- 💻 Innovative projects showcasing technology 
+- 💻 Innovative projects showcasing technology  
 - 🏆 Highlighting my GitHub trophies & accomplishments  
 - 🔥 Daily coding streak motivating consistency & growth
+
+
+## 🎬 Featured Projects
+
+### [📺 Netflix Project](https://github.com/Soumyad3110/Netflix_project)
+
+[![Repo Stars](https://img.shields.io/github/stars/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project/stargazers)
+[![Repo Forks](https://img.shields.io/github/forks/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project/network)
+[![Top Language](https://img.shields.io/github/languages/top/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project)
+[![License](https://img.shields.io/github/license/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project/blob/main/LICENSE)
+
+
+
+> 🎥 A responsive netflix recommendation system using NLP
 
 ## Programming Languages & Tech 
 <p>
