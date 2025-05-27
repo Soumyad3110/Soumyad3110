@@ -34,18 +34,6 @@
 
 ---
 
-## 🚩 Badges
-
-[![GitHub followers](https://img.shields.io/github/followers/Soumyad3110?style=for-the-badge&label=Followers&logo=github&color=181717&logoColor=white)](https://github.com/Soumyad3110)
-[![GitHub stars](https://img.shields.io/github/stars/Soumyad3110?style=for-the-badge&label=Stars&logo=github&color=ff69b4&logoColor=white)](https://github.com/Soumyad3110?tab=stars)
-[![GitHub license](https://img.shields.io/github/license/Soumyad3110/your-repo-name?style=for-the-badge&label=License&color=green)](https://github.com/Soumyad3110/your-repo-name/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Soumyad3110/your-repo-name?style=for-the-badge&label=Issues&color=red)](https://github.com/Soumyad3110/your-repo-name/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Soumyad3110/your-repo-name?style=for-the-badge&label=Last%20Commit&color=orange)](https://github.com/Soumyad3110/your-repo-name/commits/main)
-
-<br/>
-
----
-
 ## 📊 GitHub Stats & Daily Contribution Streak
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyad3110&show_icons=true&theme=radical)
