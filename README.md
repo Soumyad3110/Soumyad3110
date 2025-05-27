@@ -5,8 +5,7 @@
 
 ---
 
-### 👋Hi, I'm Soumyadeep Dutta — a passionate coder and AI-ML enthusiast with a deep interest in computer vision, LLMs, and APIs.Currently a sophomore B.Tech student at KIIT DU, Bhubaneswar, INDIA.I love being immersed in the ever-evolving world of technology...Proficient in Python, with a strong interest in NLP, cognitive reasoning, and multilingualism.Driven to connect with people, build impactful ideas, and shape a smarter, better world.
-
+### 👋 Hi, I'm **Soumyadeep Dutta** — a passionate coder, AI-ML enthusiast, having keen interest in computer vision, LLMs, APIs! Currently a sophomore B.TECH student at KIIT DU, Bhubaneswar, INDIA. I love keeping myself indulged into the world of ever-evolving technologies... Having strong command over Python programming, I keep interest in NLP and Cognitive thinking and multilingualism, I am here to connect with people, to make brighter ideas and projects making world a better place to live...
 ---
 
 ## 🌟 Discover my world of code, creativity & achievements
