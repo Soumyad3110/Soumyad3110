@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 Hi, I'm **Soumyadeep Dutta** — a passionate coder, AI-ML enthusiast, having keen interest in computer vision, LLMs, APIs! Currently a sophomore B.TECH student at KIIT DU, Bhubaneswar, INDIA. I love keeping myself indulged into the world of ever-evolving technologies... Having strong command over Python programming, I keep interest in NLP and Cognitive thinking and multilingualism, I am here to connect with people, to make brighter ideas and projects making world a better place to live...
+### 👋 Hi, I'm **Soumyadeep Dutta** — a passionate coder, AI-ML enthusiast, having keen interest in computer vision, LLMs, APIs! Currently a sophomore B.TECH CSE student at KIIT DU, Bhubaneswar, INDIA. I love keeping myself indulged into the world of ever-evolving technologies... Having strong command over Python programming, I keep interest in NLP and Cognitive thinking and multilingualism, I am here to connect with people, to make brighter ideas and projects making world a better place to live...
 ---
 
 ## 🌟 Discover my world of code, creativity & achievements
@@ -36,7 +36,8 @@
 
 ## 🤖 Programming Languages & Tech 
 <p>
-  <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python Logo" width="40"/> 
+  <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python Logo" width="40"/>
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" alt="Linux Logo" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/120px-Tensorflow_logo.svg.png" alt="TensorFlow Logo" width="40"/>
