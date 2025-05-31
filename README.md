@@ -19,23 +19,44 @@
 ---
 ### [📺 Netflix Recommendation System](https://github.com/Soumyad3110/Netflix-Recommendation-System)
 
-<p>
+<a href="https://github.com/Soumyad3110/Netflix-Recommendation-System/stargazers" target="_blank">
   <img src="https://img.shields.io/github/stars/Soumyad3110/Netflix-Recommendation-System?style=social" alt="Stars"/>
+</a>
+
+<a href="https://github.com/Soumyad3110/Netflix-Recommendation-System/network/members" target="_blank">
   <img src="https://img.shields.io/github/forks/Soumyad3110/Netflix-Recommendation-System?style=social" alt="Forks"/>
+</a>
+
+<a href="https://github.com/Soumyad3110/Netflix-Recommendation-System/issues" target="_blank">
   <img src="https://img.shields.io/github/issues/Soumyad3110/Netflix-Recommendation-System" alt="Issues"/>
+</a>
+
+<a href="https://github.com/Soumyad3110/Netflix-Recommendation-System/blob/main/LICENSE" target="_blank">
   <img src="https://img.shields.io/github/license/Soumyad3110/Netflix-Recommendation-System" alt="License"/>
-</p>
+</a>
 
 > 🎥 A responsive netflix recommendation system using NLP
 
 ### [🧠 Diabetes Prediction System](https://github.com/Soumyad3110/Diabetes_Prediction_System)
 
 <p>
-  <img src="https://img.shields.io/github/stars/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/Soumyad3110/Diabetes_Prediction_System" alt="Issues"/>
-  <img src="https://img.shields.io/github/license/Soumyad3110/Diabetes_Prediction_System" alt="License"/>
+  <a href="https://github.com/Soumyad3110/Diabetes_Prediction_System/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Stars"/>
+  </a>
+  
+  <a href="https://github.com/Soumyad3110/Diabetes_Prediction_System/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Forks"/>
+  </a>
+  
+  <a href="https://github.com/Soumyad3110/Diabetes_Prediction_System/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/Soumyad3110/Diabetes_Prediction_System" alt="Issues"/>
+  </a>
+  
+  <a href="https://github.com/Soumyad3110/Diabetes_Prediction_System/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/Soumyad3110/Diabetes_Prediction_System" alt="License"/>
+  </a>
 </p>
+
 
 > 🔍 A machine learning project that predicts whether a person is diabetic based on medical features using a Random Forest Classifier.
 
