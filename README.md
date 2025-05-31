@@ -16,14 +16,29 @@
 
 
 ## 🎬 Featured Projects
-
+---
 ### [📺 Netflix Project](https://github.com/Soumyad3110/Netflix_project)
 
-[![Repo Stars](https://img.shields.io/github/stars/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project/stargazers)
-[![Repo Forks](https://img.shields.io/github/forks/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project/network)
-[![Top Language](https://img.shields.io/github/languages/top/Soumyad3110/Netflix_project?style=flat-square)](https://github.com/Soumyad3110/Netflix_project)
+<p>
+  <img src="https://img.shields.io/github/stars/Soumyad3110/Netflix-Recommendation-System?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Soumyad3110/Netflix-Recommendation-System?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/Soumyad3110/Netflix-Recommendation-System" alt="Issues"/>
+  <img src="https://img.shields.io/github/license/Soumyad3110/Netflix-Recommendation-System" alt="License"/>
+</p>
 
 > 🎥 A responsive netflix recommendation system using NLP
+
+### 🧠 Diabetes Prediction System
+
+<p>
+  <img src="https://img.shields.io/github/stars/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/Soumyad3110/Diabetes_Prediction_System" alt="Issues"/>
+  <img src="https://img.shields.io/github/license/Soumyad3110/Diabetes_Prediction_System" alt="License"/>
+</p>
+A machine learning project that predicts whether a person is diabetic based on medical features using a Random Forest Classifier.
+
+---
 
 ## 🚀 Other Featured Repositories
 
