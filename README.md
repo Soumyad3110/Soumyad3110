@@ -17,7 +17,7 @@
 
 ## 🎬 Featured Projects
 ---
-### [📺 Netflix Project](https://github.com/Soumyad3110/Netflix_project)
+### [📺 Netflix Recommendation System](https://github.com/Soumyad3110/Netflix-Recommendation-System)
 
 <p>
   <img src="https://img.shields.io/github/stars/Soumyad3110/Netflix-Recommendation-System?style=social" alt="Stars"/>
@@ -28,7 +28,7 @@
 
 > 🎥 A responsive netflix recommendation system using NLP
 
-### 🧠 Diabetes Prediction System
+### [🧠 Diabetes Prediction System](https://github.com/Soumyad3110/Diabetes_Prediction_System)
 
 <p>
   <img src="https://img.shields.io/github/stars/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Stars"/>
