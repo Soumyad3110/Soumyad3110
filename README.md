@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/github/issues/Soumyad3110/Diabetes_Prediction_System" alt="Issues"/>
   <img src="https://img.shields.io/github/license/Soumyad3110/Diabetes_Prediction_System" alt="License"/>
 </p>
+
 > 🔍 A machine learning project that predicts whether a person is diabetic based on medical features using a Random Forest Classifier.
 
 ---
