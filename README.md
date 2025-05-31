@@ -39,7 +39,6 @@
 
 ### [🧠 Diabetes Prediction System](https://github.com/Soumyad3110/Diabetes_Prediction_System)
 
-<p>
   <a href="https://github.com/Soumyad3110/Diabetes_Prediction_System/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/Soumyad3110/Diabetes_Prediction_System?style=social" alt="Stars"/>
   </a>
@@ -52,11 +51,9 @@
     <img src="https://img.shields.io/github/issues/Soumyad3110/Diabetes_Prediction_System" alt="Issues"/>
   </a>
   
-  <a href="https://github.com/Soumyad3110/Diabetes_Prediction_System/blob/main/LICENSE" target="_blank">
+ <a href="https://github.com/Soumyad3110/Diabetes_Prediction_System/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/Soumyad3110/Diabetes_Prediction_System" alt="License"/>
-  </a>
-</p>
-
+ </a>
 
 > 🔍 A machine learning project that predicts whether a person is diabetic based on medical features using a Random Forest Classifier.
 
