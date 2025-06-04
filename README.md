@@ -15,9 +15,10 @@
 - 🏆 Highlighting my GitHub trophies & accomplishments  
 - 🔥 Daily coding streak motivating consistency & growth
 
+---
 
 ## 🎬 Featured Projects
----
+
 ### [📺 Netflix Recommendation System](https://github.com/Soumyad3110/Netflix-Recommendation-System)
 
 <a href="https://github.com/Soumyad3110/Netflix-Recommendation-System/stargazers" target="_blank">
@@ -68,6 +69,7 @@
 
 - [![☕ Java](https://img.shields.io/badge/GitHub-Java-181717?style=flat&logo=github)](https://github.com/Soumyad3110/Java)
 
+---
 
 ## 🤖 Programming Languages & Tech 
 <p>
